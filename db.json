@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "laraib",
+      "FirstName": "Laraib",
+      "LastName": "Bhat",
+      "department": "devloper",
+      "email": "l@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "username": "Dheeraj",
+      "firstName": "Dheeraj",
+      "lastName": "Kumar",
+      "department": "Developers",
+      "email": "dk@gmail.com",
+      "password": "1234",
+      "initials": "DK",
+      "id": 3
+    },
+    {
+      "username": "Akil",
+      "firstName": "Akil",
+      "lastName": "Mushtaq",
+      "department": "Testing",
+      "email": "akil@gmail.com",
+      "password": "1234",
+      "initials": "AM",
+      "id": 4
+    }
+  ],
+  "department": [
+    {
+      "id": "1",
+      "department_name": "Developers22"
+    },
+    {
+      "id": "2",
+      "department_name": "Marketing"
+    },
+    {
+      "id": "3",
+      "department_name": "Testing"
+    }
+  ]
+}
